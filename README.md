@@ -1,5 +1,7 @@
 # terraform-tools
 
+![gdn](https://github.com/globaldatanet/.github/raw/main/profile/logo.png)
+
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 **List of Terraform Tools and Helpers:**
