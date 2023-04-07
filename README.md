@@ -17,3 +17,7 @@
 | **tfupdate**          | Update version constraints of Terraform core, providers, and modules                   | https://github.com/minamijoyo/tfupdate           | ![GitHub stars](https://img.shields.io/github/stars/minamijoyo/tfupdate)           |
 | **tfvc**              | Terraform provider and module version checking tool                                    | https://github.com/tfverch/tfvc                  | ![GitHub stars](https://img.shields.io/github/stars/tfverch/tfvc)                  |
 | **tflint**            | A Pluggable Terraform Linter                                                           | https://github.com/terraform-linters/tflint      | ![GitHub stars](https://img.shields.io/github/stars/terraform-linters/tflint)      |
+
+## Related Repositories
+
+- [tflint-updates](https://github.com/globaldatanet/tflint-config) - Keeps TFLint Config file up-to-date
